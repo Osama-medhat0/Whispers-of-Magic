@@ -151,9 +151,7 @@ This game was developed as part of a university coursework project for academic 
 
 ## 📸 Screenshots
 
-> <img width="1909" height="1032" alt="Screenshot 2025-07-12 000847" src="https://github.com/user-attachments/assets/847d3ad1-1186-49a0-b8f1-6985e3314f5c" />
-> ![Screenshot 2025-07-12 001716](https://github.com/user-attachments/assets/87cb6298-42e9-4a4d-ac6e-dd6b48c85de2)
-> <img width="1909" height="1053" alt="image" src="https://github.com/user-attachments/assets/54e551f0-c38e-4953-918a-2a93ed2a95bd" />
+< <img width="1909" height="1032" alt="Screenshot 2025-07-12 000847" src="https://github.com/user-attachments/assets/847d3ad1-1186-49a0-b8f1-6985e3314f5c" />
 < <img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/567b921d-5e02-470a-adc2-ef55e96393f2" />
 < <img width="1907" height="986" alt="image" src="https://github.com/user-attachments/assets/4dc0316a-64aa-4062-958c-da5ad51f1a93" />
 < <img width="1887" height="1049" alt="image" src="https://github.com/user-attachments/assets/a570c8ca-fdb7-473e-b89f-426a194b2f37" />

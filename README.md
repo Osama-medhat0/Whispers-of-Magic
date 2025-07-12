@@ -151,12 +151,12 @@ This game was developed as part of a university coursework project for academic 
 
 ## 📸 Screenshots
 
-< <img width="1909" height="1032" alt="Screenshot 2025-07-12 000847" src="https://github.com/user-attachments/assets/847d3ad1-1186-49a0-b8f1-6985e3314f5c" />
-< <img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/567b921d-5e02-470a-adc2-ef55e96393f2" />
-< <img width="1907" height="986" alt="image" src="https://github.com/user-attachments/assets/4dc0316a-64aa-4062-958c-da5ad51f1a93" />
-< <img width="1887" height="1049" alt="image" src="https://github.com/user-attachments/assets/a570c8ca-fdb7-473e-b89f-426a194b2f37" />
-< <img width="1905" height="1052" alt="image" src="https://github.com/user-attachments/assets/dedcda65-2be1-4ea1-944f-c04661e4e5d8" />
-< <img width="1888" height="1037" alt="image" src="https://github.com/user-attachments/assets/a8ba2c10-cb90-468c-bc57-bc2744fe65b9" />
-< <img width="1884" height="1018" alt="image" src="https://github.com/user-attachments/assets/bce7ef9e-b268-4c38-a9fa-d3bb27e4a786" />
-< <img width="1905" height="1048" alt="image" src="https://github.com/user-attachments/assets/1168dc3a-87c4-4dcc-ba19-e666934f39b1" />
-< <img width="1887" height="1008" alt="image" src="https://github.com/user-attachments/assets/f8cded96-7a6b-4681-b9f5-dd2f1a9e6fae" />
+> <img width="1909" height="1032" alt="Screenshot 2025-07-12 000847" src="https://github.com/user-attachments/assets/847d3ad1-1186-49a0-b8f1-6985e3314f5c" />
+> <img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/567b921d-5e02-470a-adc2-ef55e96393f2" />
+> <img width="1907" height="986" alt="image" src="https://github.com/user-attachments/assets/4dc0316a-64aa-4062-958c-da5ad51f1a93" />
+> <img width="1887" height="1049" alt="image" src="https://github.com/user-attachments/assets/a570c8ca-fdb7-473e-b89f-426a194b2f37" />
+> <img width="1905" height="1052" alt="image" src="https://github.com/user-attachments/assets/dedcda65-2be1-4ea1-944f-c04661e4e5d8" />
+> <img width="1884" height="1018" alt="image" src="https://github.com/user-attachments/assets/bce7ef9e-b268-4c38-a9fa-d3bb27e4a786" />
+> <img width="1905" height="1048" alt="image" src="https://github.com/user-attachments/assets/1168dc3a-87c4-4dcc-ba19-e666934f39b1" />
+> <img width="1907" height="1046" alt="Screenshot 2025-07-12 180023" src="https://github.com/user-attachments/assets/2a865aee-a41c-4d72-ad8d-725ba36cddb7" />
+> <img width="1887" height="1008" alt="image" src="https://github.com/user-attachments/assets/f8cded96-7a6b-4681-b9f5-dd2f1a9e6fae" />
